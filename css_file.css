@@ -1,0 +1,28 @@
+.color1 {
+    background-color: powderblue;
+    border-width: 5px;
+    color: white;
+    border-style: solid;
+    border-color: #a1cc1b;
+  }
+.right{
+  float: right;
+  height: 100px;
+  width: 300px;
+  padding-right: 270px;
+  margin-right: 10px;
+}
+.left{
+    height: 400px;
+    width: 300px;
+    background-color: powderblue;
+}
+.head{
+    font-style: oblique;
+    font-weight: 200;
+}
+.column{
+    column-count: 2;
+    column-gap: 20px;
+    column-rule-width: 50px;
+}
